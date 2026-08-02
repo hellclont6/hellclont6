@@ -11,7 +11,7 @@
   <a href="https://t.me/Vu1tur3"><img src="https://img.shields.io/badge/Telegram-1e2226?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.com/users/vulture_20900"><img src="https://img.shields.io/badge/Discord-1e2226?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://steamcommunity.com/profiles/76561199860571497"><img src="https://img.shields.io/badge/Steam-848483?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-  <a href=" "><img src="https://img.shields.io/badge/Atabook-eeebe4?style=for-the-badge&logo=book&logoColor=white" alt="Atabook"></a>
-  <a href=" "><img src="https://img.shields.io/badge/Strawpage-eeebe4?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Atabook-f8f7f4?style=for-the-badge&logo=book&logoColor=white" alt="Atabook"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Strawpage-f8f7f4?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage"></a>
 </p>
 　 　 　ㅤ<img width="800" height="400" alt="Vulture" src=" " />
