@@ -1,6 +1,6 @@
 ## INFO
 
-　 　 　ㅤ<img width="800" height="350" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
+　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
 　 　<div align="center">
 
 <h1 style="margin-bottom: 10 px;">IM A LUDWIG AKA VULTURE</h1>
