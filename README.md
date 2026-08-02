@@ -1,16 +1,17 @@
-## Hi there 👋
+## INFO
 
-<!--
-**hellclont6/hellclont6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+　 　 　ㅤ<img width="800" height="200" alt="Ludwig" src=" " />
+　 　<div align="center">
 
-Here are some ideas to get you started:
+<h1 style="margin-bottom: 10 px;">IM A LUDWIG AKA VULTURE</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord.</p>
+
+<p align="center">
+  <a href="https://t.me/Vu1tur3"><img src="https://img.shields.io/badge/Telegram-1e2226?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discord.com/users/vulture_20900"><img src="https://img.shields.io/badge/Discord-1e2226?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://steamcommunity.com/profiles/76561199860571497"><img src="https://img.shields.io/badge/Steam-833b2b?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Atabook-a48353?style=for-the-badge&logo=book&logoColor=white" alt="Atabook"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Strawpage-a48353?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage"></a>
+</p>
+　 　 　ㅤ<img width="800" height="400" alt="Vulture" src=" " />
