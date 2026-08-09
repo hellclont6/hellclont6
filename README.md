@@ -3,7 +3,7 @@
 　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
 　 　<div align="center">
 
-<h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483} {\text{HELLCLONT6}}}$$⠀⠀ AKA VULTURE</h1>
+<h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483}{\text{HELLCLONT6}}$$⠀⠀ AKA VULTURE</h1>
 
 <p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord.</p>
 
