@@ -1,6 +1,7 @@
 ## INFO
 
-　 　<div align="center">    ![profileviews](https://komarev.com/ghpvc/?username=HELLCLONT6&label=stalkers&color=1e2226)
+         ![profileviews](https://komarev.com/ghpvc/?username=HELLCLONT6&label=stalkers&color=1e2226)
+　 　<div align="center">
 　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
 　 　<div align="center">
 
