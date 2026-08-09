@@ -1,7 +1,6 @@
 ## INFO
 
-         ![profileviews](https://komarev.com/ghpvc/?username=HELLCLONT6&label=stalkers&color=1e2226)
-     <div align="center">
+![profileviews](https://komarev.com/ghpvc/?username=hellclont6&label=stalkers&color=1e2226)
 　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
 
 <h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483}{\text{HELLCLONT6}}$$ AKA $$\textcolor{#848483}{\text{VULTURE}}$$</h1>
@@ -17,7 +16,7 @@
   <a href="https://hellclont6.straw.page"><img src="https://img.shields.io/badge/Strawpage-f8f7f4?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage"></a>
 <p/>
 
-     ㅤ<img width="800" height="100" alt="grad" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
+　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
   
 　 　 　ㅤ<img width="800" height="300" alt="alucard" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/0663ac555d780a3b8020a97077911e36.jpg" />
-     <div align="center">
+
