@@ -8,7 +8,7 @@
 
 <h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483}{\text{HELLCLONT6}}$$ AKA $$\textcolor{#848483}{\text{VULTURE}}$$</h1>
 
-<p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord.</p>
+<p style="margin: 10 px 0;"><b> C+H W2I !! I OFTEN AFK !!</b> If I don't answer you, be patient or write to me on discord.</p>
 
 <p align="center">
   <a href="https://t.me/Vu1tur3"><img src="https://img.shields.io/badge/Telegram-1e2226?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
