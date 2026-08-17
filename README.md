@@ -4,7 +4,7 @@
 
 ![profileviews](https://komarev.com/ghpvc/?username=hellclont6&label=stalkers&color=1e2226)
 
-<img width="800" height="300" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/481a485d68f4ccc0331b84c78e5f5e18.jpg" />
+<img width="800" height="300" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия33_20260817214749.png" />
 
 <h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483}{\text{HELLCLONT6}}$$ AKA $$\textcolor{#848483}{\text{VULTURE}}$$</h1>
 
