@@ -4,7 +4,7 @@
 
 ![profileviews](https://komarev.com/ghpvc/?username=hellclont6&label=stalkers&color=1e2226)
 
-<img width="800" height="300" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия33_20260817214749.png" />
+<img width="800" height="200" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия33_20260817214749.png" />
 
 <h1 style="margin-bottom: 10 px;">IM A $$\textcolor{#848483}{\text{HELLCLONT6}}$$ AKA $$\textcolor{#848483}{\text{VULTURE}}$$</h1>
 
@@ -19,8 +19,8 @@
   <a href="https://hellclont6.straw.page"><img src="https://img.shields.io/badge/Strawpage-f8f7f4?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage"></a>
 <p/>
 
-<img width="800" height="150" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
+<img width="800" height="100" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
 
-<img width="800" height="300" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HP5o7DJWAAE8qR1.jpe" />
+<img width="800" height="400" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HP5o7DJWAAE8qR1.jpe" />
 
 </div>
