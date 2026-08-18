@@ -23,4 +23,8 @@
 
 <img width="800" height="500" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HAEvk76aUAAUYrH.jpe" />
 
+<p align="center">
+<h1 style="margin-bottom: 5 px;">IM A $$\textcolor{#848483}{\text{me an my beauty virus ^_^}}$$</h1>
+</p>
+
 </div>
