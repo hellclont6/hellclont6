@@ -22,7 +22,6 @@
 <img width="800" height="100" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
 
 <img width="800" height="500" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HAEvk76aUAAUYrH.jpe" />
-
 <p align="center">
 <p style="margin: 10 px 0;">$$\textcolor{#848483}{\text{me an my beauty virus } ^{0} \_ ^{0} }$$</p>
 </p>
