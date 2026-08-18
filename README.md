@@ -21,6 +21,6 @@
 
 <img width="800" height="100" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/Без%20названия31_20260802191343.png" />
 
-<img width="800" height="400" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HP5o7DJWAAE8qR1.jpe" />
+<img width="800" height="500" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HAEvk76aUAAUYrH.jpe" />
 
 </div>
