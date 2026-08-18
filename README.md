@@ -24,7 +24,7 @@
 <img width="800" height="500" alt="me" src="https://raw.githubusercontent.com/hellclont6/hellclont6/refs/heads/main/HAEvk76aUAAUYrH.jpe" />
 
 <p align="center">
-<h1 style="margin-bottom: 2 px;">$$\textcolor{#848483}{\text{me an my beauty virus } ^{-} \_ ^{-} }$$</h1>
+<p style="margin: 10 px 0;"><b>$$\textcolor{#848483}{\text{me an my beauty virus } ^{-} \_ ^{-} }$$</p>
 </p>
 
 </div>
